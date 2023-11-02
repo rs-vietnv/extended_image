@@ -9,7 +9,7 @@ environment:
   flutter: '>=3.13.0'
 
 dependencies:
-  extended_image_library: ^3.6.0
+  extended_image_library: ^3.4.0
   flutter:
     sdk: flutter
   meta: ^1.7.0
